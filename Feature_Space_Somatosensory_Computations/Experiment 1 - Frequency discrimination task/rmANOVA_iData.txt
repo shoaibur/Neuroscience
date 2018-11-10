@@ -1,0 +1,10 @@
+proprioception	distractor
+Near		Fd100
+Near		Fd200
+Near		Fd300
+Middle	Fd100
+Middle	Fd200
+Middle	Fd300
+Far		Fd100
+Far		Fd200
+Far		Fd300

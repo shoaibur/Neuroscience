@@ -1,0 +1,10 @@
+proprioception	distractor
+Near		Ad2
+Near		Ad4
+Near		Ad7
+Middle	Ad2
+Middle	Ad4
+Middle	Ad7
+Far		Ad2
+Far		Ad4
+Far		Ad7

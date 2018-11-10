@@ -1,0 +1,4 @@
+position
+near
+middle
+far

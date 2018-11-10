@@ -1,0 +1,5 @@
+proprioception	distractor
+Xed	Fd100
+Xed	Fd300
+unXed	Fd100
+unXed	Fd300
