@@ -1,3 +1,15 @@
+## Rename/delete folders
+* Create a temporary folder in the computer and cd to that folder from terminal.
+  git clone repository_link
+  cd repository_name
+* For renaming:
+  git mv folder_old_name folder_new_name
+* For deleting:
+  git rm -r folder_name
+* For pushing:
+  git commit -m "My message"
+  git push origin master
+
 ## Steps to push a markdown file to GitHub
 
 * Step 1: Open a new repository by clicking +New repository button on your github account. Give a name, say new_repo. Select public and Initialize this repository with a README.
