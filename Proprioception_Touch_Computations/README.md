@@ -1,4 +1,4 @@
-# Feature and space dependent somatosensory computations
+# Feature-dependent somatosensory computations
 
 Note: For the details of the experimental design, data collection, figures, and results, please see the preprint at https://www.biorxiv.org/content/early/2018/04/12/283218
 
